@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/parkchaeyeon/Desktop/GitHub/C Study 25/BaekJoon",
-      "program": "/Users/parkchaeyeon/Desktop/GitHub/C Study 25/BaekJoon/build/Debug/outDebug"
+      "cwd": "/Users/parkchaeyeon/Desktop/GitHub/C Study 25/C Programming/exam 1",
+      "program": "/Users/parkchaeyeon/Desktop/GitHub/C Study 25/C Programming/exam 1/build/Debug/outDebug"
     }
   ]
 }
